@@ -11,8 +11,10 @@ Simple tool written in C# to prevent unathorized access on your Windows PC and t
 
  ## Getting Started
  If you want to further edit this program, you can do so by forking this repository. 
- If you want the precompiled binaries, you can download them [here](https://pages.github.com/). 
+ If you want the precompiled binaries, you can download them [here](https://pages.github.com/). This project is still in development and is far from being completed. Currently taking a short hiatus and focusing on other things.
 
  ## Built With
  -C# and the .Net Framework <br/>
  -WPF Application
+ <br/><br/>
+ (More optimized C++ Version Coming Soon)
