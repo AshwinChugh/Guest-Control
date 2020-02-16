@@ -9,10 +9,10 @@ Simple tool written in C# to prevent unathorized access on your Windows PC and t
  Format) tool--asa result, this program will only run on Windows machines.
 
 
- ##Getting Started
+ ## Getting Started
  If you want to further edit this program, you can do so by forking this repository. 
  If you want the precompiled binaries, you can download them [here](https://pages.github.com/). 
 
- ##Built With
+ ## Built With
  -C# and the .Net Framework
  -WPF Application
