@@ -15,6 +15,7 @@ Simple tool written in C# to prevent unathorized access on your Windows PC and t
 
  ## Built With
  -C# and the .Net Framework <br/>
- -WPF Application
+ -WPF Application<br/>
+ -Lite DB
  <br/><br/>
  (More optimized C++ Version Coming Soon)
