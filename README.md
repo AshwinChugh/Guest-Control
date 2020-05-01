@@ -3,7 +3,7 @@ Simple tool written in C# to prevent unathorized access on your Windows PC and t
 # Guest Control
  A simple tool to increase control over your computer and prevent procrastination. 
  Inspiration came from when my brother wanted to play minecraft on my PC but I did not want him opening applications and 
- programs that were not mean't him. I put this program together to do exactly that. This program can also be used to prevent 
+ programs that were not meant for him. I put this program together to do exactly that. This program can also be used to prevent 
  procrastination. I often get carried away and waste time when I end up opening programs like Discord, Spotify, Skype etc. 
  'Guest Control' helps combat this because it prevents that program from ever opening. This is a WPF(Windows Presentation 
  Format) tool--asa result, this program will only run on Windows machines.
